@@ -1,2 +1,2 @@
-# AV-Aggregate
+# AV-Collect
 DataGathering Server
